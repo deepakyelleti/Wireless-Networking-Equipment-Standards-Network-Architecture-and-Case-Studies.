@@ -5,48 +5,48 @@
 ## Table of Contents
 
 
-1.	Introduction to Wireless Networking	4
-	1.1.	Overview of Wireless Networking Technologies:	4
-2.	Wireless Networking Equipment	5
-3.	Wireless Networking Standards	7
-4.	Cisco Packet Tracer	8
-	4.1.	Overview	8
-	4.2.	Implementation of Cisco Packet Tracer for simulating wireless networks.	8
-	4.3.	Setting up Primary wired LAN using Cisco packet tracer.	9
-	4.4.	Setting up primary wireless LAN using Cisco packet tracer.	10
-	4.5.	Configuring access points and wireless LAN controller (WLC).	10
-	4.6.     Packet Tracer – Project file:	13
-5.	Network Design and Topology	14
-6.	Troubleshooting steps	15
-7.	Future Trends in Wireless Networking	16
-8.	Case Studies and Practical Examples	17
-	8.1 Real-world Examples of Wireless Network Deployments:	17
-	8.2. Case Studies of Organizations Implementing Wireless Networking Solutions:	18
-	8.3. Lessons Learned and Best Practices from Practical Implementations:	18
-9.	Conclusion	19
-10. References	20
+1.	Introduction to Wireless Networking
+	- 1.1. Overview of Wireless Networking Technologies:
+2.	Wireless Networking Equipment
+3.	Wireless Networking Standards
+4.	Cisco Packet Tracer
+	- 4.1. Overview
+	- 4.2. Implementation of Cisco Packet Tracer for simulating wireless networks.
+	- 4.3. Setting up Primary wired LAN using Cisco packet tracer.
+	- 4.4. Setting up primary wireless LAN using Cisco packet tracer.
+	- 4.5. Configuring access points and wireless LAN controller (WLC).
+	- 4.6. Packet Tracer – Project file:
+5.	Network Design and Topology
+6.	Troubleshooting steps
+7.	Future Trends in Wireless Networking
+8.	Case Studies and Practical Examples
+	- 8.1. Real-world Examples of Wireless Network Deployments:
+	- 8.2. Case Studies of Organizations Implementing Wireless Networking Solutions:
+	- 8.3. Lessons Learned and Best Practices from Practical Implementations:
+9.	Conclusion
+10. References
 
 ---
  
 ## List of Figures
-Figure 1 Image of Wired LAN using Cisco Packet Tracer	9
-Figure 2 DNS services.	10
-Figure 3 WLC landing page.	10
-Figure 4 Setting up LAN controller.	11
-Figure 5 Making of network and advanced settings.	11
-Figure 6 Applied the settings.	12
-Figure 7 Manually powering the LAP.	12
-Figure 8 LAP gateway was given through DHCP.	13
-Figure 9 Authentication step.	13
-Figure 10 Laptops having wireless connections.	14
-Figure 11 Network topology.	15
+- Figure 1 Image of Wired LAN using Cisco Packet Tracer.
+- Figure 2 DNS services.
+- Figure 3 WLC landing page.
+- Figure 4 Setting up LAN controller.
+- Figure 5 Making of network and advanced settings.
+- Figure 6 Applied the settings.
+- Figure 7 Manually powering the LAP.
+- Figure 8 LAP gateway was given through DHCP.
+- Figure 9 Authentication step.
+- Figure 10 Laptops having wireless connections.
+- Figure 11 Network topology.
 
 ---
 
 ## List of Tables
-Table 1 Comparison of Different Wireless Networks	4
-Table 2 Network devices and their IP addresses	9
-Table 3 Troubleshooting steps.	16
+- Table 1 Comparison of Different Wireless Networks.
+- Table 2 Network devices and their IP addresses.
+- Table 3 Troubleshooting steps.
 
 ---
  
