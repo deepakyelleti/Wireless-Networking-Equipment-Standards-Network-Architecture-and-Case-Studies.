@@ -1,33 +1,8 @@
 # Wireless-Networking-Equipment-Standards-Network-Architecture-and-Case-Studies.
 
+---
 
-
-
-
-
-
-Wireless Networking Equipment and Standards
-
-
-
-
-Deepak Yelleti
-Department of Computer Science, Rivier University
-CS553AH1: Networking Technologies
-Prof. Daniel Ward
-
-
-
-
-
-
-
-
-
-
-
- 
-Table of Contents
+## Table of Contents
 
 
 1.	Introduction to Wireless Networking	4
@@ -51,9 +26,9 @@ Table of Contents
 9.	Conclusion	19
 References	20
 
-
+---
  
-List of Figures
+## List of Figures
 Figure 1 Image of Wired LAN using Cisco Packet Tracer	9
 Figure 2 DNS services.	10
 Figure 3 WLC landing page.	10
@@ -66,16 +41,14 @@ Figure 9 Authentication step.	13
 Figure 10 Laptops having wireless connections.	14
 Figure 11 Network topology.	15
 
+---
 
-
-
-
-
-List of Tables
+## List of Tables
 Table 1 Comparison of Different Wireless Networks	4
 Table 2 Network devices and their IP addresses	9
 Table 3 Troubleshooting steps.	16
 
+---
  
 1.	Introduction to Wireless Networking
 1.1.	Overview of Wireless Networking Technologies:
@@ -357,3 +330,13 @@ Wang, C.-X., Renzo, M. D., Stanczak, S., Wang, S., & Larsson, E. G. (2020). Arti
 Yumpu.com. (2012, November 16). 802.11n Wireless Access Point with PoE. yumpu.com. https://www.yumpu.com/en/document/read/3825377/80211n-wireless-access-point-with-poe
 Zhu, H., Li, M., Chlamtac, I., & Prabhakaran, B. (2004, September). A Survey of Quality of Service in IEEE 802.11 Networks. ResearchGate. https://www.researchgate.net/publication/3435990_A_survey_of_quality_of_service_in_IEEE_80211_networks
 
+---
+
+## Author
+*Deepak Yelleti* (Student ID: A0000074884) 
+Department of Computer Science, Rivier University
+CS553AH1: Networking Technologies
+Prof. Daniel Ward
+Date: February 27, 2024
+
+---
