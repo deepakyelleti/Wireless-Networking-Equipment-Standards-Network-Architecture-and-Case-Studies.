@@ -6,25 +6,25 @@
 
 
 1.	Introduction to Wireless Networking	4
-1.1.	Overview of Wireless Networking Technologies:	4
+	1.1.	Overview of Wireless Networking Technologies:	4
 2.	Wireless Networking Equipment	5
 3.	Wireless Networking Standards	7
 4.	Cisco Packet Tracer	8
-4.1.	Overview	8
-4.2.	Implementation of Cisco Packet Tracer for simulating wireless networks.	8
-4.3.	Setting up Primary wired LAN using Cisco packet tracer.	9
-4.4.	Setting up primary wireless LAN using Cisco packet tracer.	10
-4.5.	Configuring access points and wireless LAN controller (WLC).	10
-4.6.     Packet Tracer – Project file:	13
+	4.1.	Overview	8
+	4.2.	Implementation of Cisco Packet Tracer for simulating wireless networks.	8
+	4.3.	Setting up Primary wired LAN using Cisco packet tracer.	9
+	4.4.	Setting up primary wireless LAN using Cisco packet tracer.	10
+	4.5.	Configuring access points and wireless LAN controller (WLC).	10
+	4.6.     Packet Tracer – Project file:	13
 5.	Network Design and Topology	14
 6.	Troubleshooting steps	15
 7.	Future Trends in Wireless Networking	16
 8.	Case Studies and Practical Examples	17
-8.1 Real-world Examples of Wireless Network Deployments:	17
-8.2. Case Studies of Organizations Implementing Wireless Networking Solutions:	18
-8.3. Lessons Learned and Best Practices from Practical Implementations:	18
+	8.1 Real-world Examples of Wireless Network Deployments:	17
+	8.2. Case Studies of Organizations Implementing Wireless Networking Solutions:	18
+	8.3. Lessons Learned and Best Practices from Practical Implementations:	18
 9.	Conclusion	19
-References	20
+10. References	20
 
 ---
  
