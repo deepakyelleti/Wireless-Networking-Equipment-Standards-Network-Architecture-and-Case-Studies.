@@ -141,17 +141,17 @@ These standards define the protocols and technologies for wireless communication
 
 - Evolution of Wi-Fi Standards:
 
-802.11a: Introduced in 1999, 802.11a operates in the 5 GHz frequency band and offers data rates up to 54 Mbps. It provided faster speeds than the earlier 802.11b standard but had a shorter range due to higher frequency (Pahlavan & Krishnamurthy, 2020; Panek, 2019).
-
-802.11b: Also introduced in 1999, 802.11b operates in the 2.4 GHz frequency band and offers data rates up to 11 Mbps. It had a more extended range than 802.11a but slower speeds (Pahlavan & Krishnamurthy, 2020; Panek, 2019).
-
-802.11g: Introduced in 2003, 802.11g operates in the 2.4 GHz frequency band and offers data rates up to 54 Mbps. It maintained compatibility with 802.11b devices while providing faster speeds and improved range (Pahlavan & Krishnamurthy, 2020; Panek, 2019).
-
-802.11n (Wi-Fi 4): Introduced in 2009, 802.11n operates in both the 2.4 GHz and 5 GHz frequency bands and offers data rates up to 600 Mbps (with multiple antennas using MIMO technology). It significantly improved speed and range over previous standards (Pahlavan & Krishnamurthy, 2020; Panek, 2019). 
-
-802.11ac (Wi-Fi 5): Introduced in 2013, 802.11ac operates in the 5 GHz frequency band and offers data rates up to several gigabits per second (Gbps) by utilizing wider channels and more advanced modulation techniques. It further improved speed and performance, especially in crowded Wi-Fi environments (Pahlavan & Krishnamurthy, 2020; Panek, 2019).
-
-802.11ax (Wi-Fi 6): Introduced in 2019, 802.11ax operates in both the 2.4 GHz and 5 GHz frequency bands and offers higher data rates, increased capacity, and improved efficiency compared to previous standards. It introduced features such as Orthogonal Frequency Division Multiple Access (OFDMA) and Target Wake Time (TWT) to enhance performance in high-density deployments (Pahlavan & Krishnamurthy, 2020).
+	1. 802.11a: Introduced in 1999, 802.11a operates in the 5 GHz frequency band and offers data rates up to 54 Mbps. It provided faster speeds than the earlier 802.11b standard but had a shorter range due to higher frequency (Pahlavan & Krishnamurthy, 2020; Panek, 2019).
+	
+	2. 802.11b: Also introduced in 1999, 802.11b operates in the 2.4 GHz frequency band and offers data rates up to 11 Mbps. It had a more extended range than 802.11a but slower speeds (Pahlavan & Krishnamurthy, 2020; Panek, 2019).
+	
+	3. 802.11g: Introduced in 2003, 802.11g operates in the 2.4 GHz frequency band and offers data rates up to 54 Mbps. It maintained compatibility with 802.11b devices while providing faster speeds and improved range (Pahlavan & Krishnamurthy, 2020; Panek, 2019).
+	
+	4. 802.11n (Wi-Fi 4): Introduced in 2009, 802.11n operates in both the 2.4 GHz and 5 GHz frequency bands and offers data rates up to 600 Mbps (with multiple antennas using MIMO technology). It significantly improved speed and range over previous standards (Pahlavan & Krishnamurthy, 2020; Panek, 2019). 
+	
+	5. 802.11ac (Wi-Fi 5): Introduced in 2013, 802.11ac operates in the 5 GHz frequency band and offers data rates up to several gigabits per second (Gbps) by utilizing wider channels and more advanced modulation techniques. It further improved speed and performance, especially in crowded Wi-Fi environments (Pahlavan & Krishnamurthy, 2020; Panek, 2019).
+	
+	6. 802.11ax (Wi-Fi 6): Introduced in 2019, 802.11ax operates in both the 2.4 GHz and 5 GHz frequency bands and offers higher data rates, increased capacity, and improved efficiency compared to previous standards. It introduced features such as Orthogonal Frequency Division Multiple Access (OFDMA) and Target Wake Time (TWT) to enhance performance in high-density deployments (Pahlavan & Krishnamurthy, 2020).
 
 These Wi-Fi standards have evolved over the years to meet the increasing demand for faster speeds, better coverage, and improved efficiency in wireless networks, enabling a wide range of applications across various industries and consumer environments (Pahlavan & Krishnamurthy, 2020; Panek, 2019).
 
